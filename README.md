@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**LeomarLinhares/LeomarLinhares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>My name is Leomar da Silva Linhares and I am 24 years old.</p>
+<p> I am currently learning the basics: HTML, CSS and Javascript, but I start to look at programming because of a personal project that NEEDS to get off the ground and I can't do this without programming. It's a game, so I intend to learn C#.</ p>
+<p> I am hungry for challenges, especially for beginners / intermediate. So, if you stopped by and have challenges to refer me, say hello! 😄 </p>
+<br>
 
-Here are some ideas to get you started:
+## What I want to learn
+:pushpin: - React<br>
+:pushpin: - Python<br>
+:pushpin: - C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Form
+
+ 📸 - [Instagram](http://instagram.com/leomarlinhares)<br>
+ 🐤 - [Twitter](http://twitter.com/leomarlinhares)<br>
+ 👍🏼 - [Facebook](http://facebook.com/leomarlinhares)
