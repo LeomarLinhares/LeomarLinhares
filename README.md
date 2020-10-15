@@ -10,3 +10,4 @@
  🐤 - [Twitter](http://twitter.com/leomarlinhares)<br>
  👍🏼 - [Facebook](http://facebook.com/leomarlinhares)
  
+![](https://komarev.com/ghpvc/?username=LeomarLinhares&style=flat-square&color=blueviolet)
