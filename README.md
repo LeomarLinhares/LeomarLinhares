@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <p>My name is Leomar Linhares, I am 24 years old.</p>
-<p> I am currently learning the basics for web programming: HTML, CSS and Javascript.</ p>
+<p> I am currently learning React.js.</ p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeomarLinhares&layout=compact)](https://github.com/LeomarLinhares/github-readme-stats)
 ## Where to find me :mag:
