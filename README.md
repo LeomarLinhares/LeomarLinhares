@@ -1,5 +1,3 @@
-# Olá 👋
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeomarLinhares&layout=compact)](https://github.com/LeomarLinhares/github-readme-stats)
 ## Redes sociais :mag:
 
