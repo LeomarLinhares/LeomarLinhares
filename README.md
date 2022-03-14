@@ -5,22 +5,32 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomarlinhares&layout=compact&langs_count=7&theme=dark"/>
  </a>
 </div>
- 
+
  ##
  
  <div style="display: inline_block" align="center">
   <p style="text-align: center;">
-  <img align="center" alt="Leos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Leos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Leos-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
-  <img align="center" alt="Leos-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-  <img align="center" alt="Leos-Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-    
+  
+![HTML5](/docs/images/html5.svg "HTML 5")
+![CSS3](/docs/images/css3.svg "CSS 3")
+![Javascript](/docs/images/javascript.svg "Javascript")
+![React.js](/docs/images/reactjs.svg "React JS")
+
+![Sass](/docs/images/sass.svg "Sass")
+![Redux](/docs/images/redux.svg "Redux")
+![Jest](/docs/images/jest.svg "Jest")
+![Next.js](/docs/images/next.svg "Next.js")
+
+![Docker](/docs/images/docker.svg "Docker")
+![MySQL](/docs/images/mysql.svg "MySQL")
+![Express](/docs/images/express.svg "Express")
+![Sequelize](/docs/images/sequelize.svg "Sequelize")
+
+![Typescript](/docs/images/typescript.svg "Typescript")
+
   </p>
 </div>
-  
+
 ##
  
  <div align="center">
