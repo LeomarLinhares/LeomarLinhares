@@ -1,6 +1,6 @@
 ## Olá! Eu sou Leomar, desenvolvedor web!
 
-<img height="95em" align="right" src="./docs/images/squirdle.gif"/>
+<img align="right" src="./docs/images/squirdle.gif"/>
 
  - 🗺️ Sou do Rio de Janeiro, Brasil
  - 🚴🏼 Gosto de andar de bicicleta
