@@ -1,4 +1,4 @@
-## Olá! Eu sou Leomar, desenvolvedor web!
+## Olá! Eu sou Leomar, desenvolvedor de software!
 
 <img align="right" src="./docs/images/squirdle.gif"/>
 
