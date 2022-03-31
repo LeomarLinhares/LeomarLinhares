@@ -61,7 +61,7 @@
     <img alt="Link para o Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="./docs/curriculo.pdf" target="_blank">
-    <img alt="Link para o Gmail" src="https://img.shields.io/badge/Curr%C3%ADculo-000000?style=for-the-badge&logoColor=white"/>
+    <img alt="Link para o Currículo" src="https://img.shields.io/badge/Curr%C3%ADculo-000000?style=for-the-badge&logoColor=white"/>
   </a>
 
  </div>
