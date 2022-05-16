@@ -22,8 +22,6 @@
   <p style="text-align: center;">
   
 ### Stacks
-    
-#### Primárias (Tenho familiaridade e uso recorrentemente)
 
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-FCC624?style=for-the-badge&logo=JavaScript&logoColor=323330)
 ![typescript Badge](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
@@ -34,9 +32,6 @@
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### Secundárias (Já tive contato em algum projeto)
-
 ![NextJS Badge](https://img.shields.io/badge/Next.js-1e262c?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Docker Badge](https://img.shields.io/badge/Docker-082135?style=for-the-badge&logo=Docker&logoColor=blue)
 ![Redux Badge](https://img.shields.io/badge/-Redux-212121?style=for-the-badge&logo=Redux&logoColor=7548bb)
