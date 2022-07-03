@@ -7,7 +7,7 @@
  - 🎮 Gosto de jogos, mas por enquanto só jogo mobile
  - 🔎 Estudando MongoDB e Clean Arch
  - 📜 Eu estudava licenciatura em história antes de entrar para a tecnologia
- <!-- - 💻 Trabalhando no Petnder - BREVE -->
+ - 💻 Trabalho com softwares para auditoria
 
 <div align="center">
   <a href="https://github.com/leomarlinhares">
