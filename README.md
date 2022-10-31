@@ -5,7 +5,7 @@
  - 🗺️ Sou do Rio de Janeiro, Brasil
  - 🚴🏼 Gosto de andar de bicicleta
  - 🎮 Gosto de jogos, mas por enquanto só jogo mobile
- - 🔎 Estudando MongoDB e Clean Arch
+ - 🔎 Estudando Python
  - 📜 Eu estudava licenciatura em história antes de entrar para a tecnologia
  - 💻 Trabalho com softwares para auditoria
 
