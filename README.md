@@ -4,10 +4,9 @@
 
  - 🗺️ Sou do Rio de Janeiro, Brasil
  - 🚴🏼 Gosto de andar de bicicleta
- - 🎮 Gosto de jogos, mas por enquanto só jogo mobile
- - 🔎 Estudando Python
+ - 🎮 Gosto de jogos
  - 📜 Eu estudava licenciatura em história antes de entrar para a tecnologia
- - 💻 Trabalho com softwares para auditoria
+ - 💻 Trabalho com softwares para auditoria na GRX Soluções
 
 <div align="center">
   <a href="https://github.com/leomarlinhares">
