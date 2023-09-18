@@ -6,7 +6,7 @@
  - 🚴🏼 Gosto de andar de bicicleta
  - 🎮 Gosto de jogos
  - 📜 Eu estudava licenciatura em história antes de entrar para a tecnologia
- - 💻 Trabalho com softwares para auditoria na GRX Soluções
+ - 💻 Trabalho como desenvolvedor fullstack na Win.win
 
 <div align="center">
   <a href="https://github.com/leomarlinhares">
