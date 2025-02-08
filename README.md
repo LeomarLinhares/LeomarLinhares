@@ -3,9 +3,6 @@
 <img align="right" src="./docs/images/squirdle.gif"/>
 
  - 🗺️ Sou do Rio de Janeiro, Brasil
- - 🚴🏼 Gosto de andar de bicicleta
- - 🎮 Gosto de jogos
- - 📜 Eu estudava licenciatura em história antes de entrar para a tecnologia
  - 💻 Trabalho como desenvolvedor fullstack na Win.win
 
 <div align="center">
