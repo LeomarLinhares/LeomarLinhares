@@ -28,5 +28,4 @@
 ### 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leomarlinhares)
 [![Email](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leomarlinhares@gmail.com)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-111111?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://leomarlinhares.com)
 [![Currículo](https://img.shields.io/badge/-Currículo-000000?style=for-the-badge&logoColor=white)](./docs/curriculo.pdf)
