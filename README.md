@@ -27,5 +27,5 @@
 
 ### 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leomarlinhares)
-[![Email](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leomarlinhares@gmail.com)
+[![Email](https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:contato@seudominio.com)
 [![Currículo](https://img.shields.io/badge/-Currículo-000000?style=for-the-badge&logoColor=white)](./docs/curriculo.pdf)
