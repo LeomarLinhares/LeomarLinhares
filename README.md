@@ -1,7 +1,9 @@
 ## 👋 Olá, eu sou o Leomar!
 
-💻 Desenvolvedor fullstack na **Win.win** e criador do [Draob](https://draob.com) 
+💻 Desenvolvedor fullstack na **Win.win** e criador do [Draob](https://draob.com)
+
 📍 Rio de Janeiro, Brasil  
+
 🌐 [leomarlinhares.com](https://leomarlinhares.com)
 
 ---
